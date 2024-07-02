@@ -116,6 +116,7 @@ const SimpleForm = () => {
 			</div>
 			<button
 				type='button'
+				style={{ width: "80%", maxWidth: "800px"}}
 				className='button animation-fade-up-delay'>
 				<Link
 					to='/simple-form-result'
