@@ -64,6 +64,7 @@
 ## About The Project
 
 <img src="website/public/image.png">
+<img src="website/public/image2.png">
 
 This Project is a simple form application with custom field validator using vanilla JS and react-hook-form. This project implement react-redux as the state storage and make it persist state with react-redux-persist.
 
