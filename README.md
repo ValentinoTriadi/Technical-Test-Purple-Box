@@ -132,7 +132,7 @@ This Project is a simple form application with custom field validator using vani
 
 ## Deployment
 
-Application is deployed on Vercel on [```https://sea-salon-theta.vercel.app/```](https://sea-salon-theta.vercel.app/)
+Application is deployed on Vercel on [```https://technical-test-purple-box.vercel.app/```](https://technical-test-purple-box.vercel.app/)
 <br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
