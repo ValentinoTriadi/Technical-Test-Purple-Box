@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+* {
+  box-sizing: border-box;
+
+  /* Color Variable */
+  --background-from: #111113;
+  --background-to: #19191B;
+  --secondary: #222325;
+  --ternary: #303136;
+
+  --foreground: #EEEEF0;
+  --secondary-foreground: #bdbdbd;
+  --ternary-foreground: #93B4FF;
+
+  --accent: #3D63DD;
+  --card: rgba(34, 35, 37, 60%);
+  --border: #292A2E;
+  --destructive: #DD3737;
+}
