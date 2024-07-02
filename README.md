@@ -26,7 +26,7 @@
   <a href="https://github.com/ValentinoTriadi/Technical-Test-Purple-Box">
     <img src="website/public/logo512.png" alt="Logo" width="180" >
   </a>
-  <h1>SEA Salon</h1>
+  <h1>Purple Box Form</h1>
   <p align="center">
     A Simple Form Application
     <br />
