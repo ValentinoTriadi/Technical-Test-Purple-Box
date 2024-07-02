@@ -1,0 +1,19 @@
+.Result-box {
+  width: 100%;
+  padding: 20px;
+  text-align: left;
+  color: var(--foreground);
+}
+
+.Result-field {
+  display: flex;
+  justify-content: start;
+  margin-bottom: 10px;
+  gap: 10px;
+}
+
+.Result-label {
+  font-size: 1rem;
+  font-weight: bold;
+  color: var(--ternary-foreground);
+}
