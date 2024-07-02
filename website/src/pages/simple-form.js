@@ -31,6 +31,8 @@ const SimpleForm = () => {
 
 		// update form data to redux store
 		dispatch(updateSimpleForm(data));
+
+		alert("Form submitted successfully");
 	}
 
 	return (
